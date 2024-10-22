@@ -29,3 +29,10 @@
     font-weight: 500;
     font-style: italic;
 }
+
+.mtk19 {
+    color: transparent;
+    background: linear-gradient(90deg, rgba(176, 122, 237, 1) 0%, rgba(252, 70, 107, 1) 100%);
+    background-clip: text;
+    font-weight: 500;
+}
