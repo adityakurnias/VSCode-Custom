@@ -1,4 +1,4 @@
-.mtk14 {
+.mtk16 {
     font-weight: bold;
     color: transparent;
     background: linear-gradient(28deg, rgba(251, 86, 117, 1) 0%, rgba(213, 90, 236, 1) 100%);
@@ -17,9 +17,13 @@
     font-weight: 500;
 }
 
+.mtk6 {
+    color: #75beff;
+}
+
 .mtk7 {
     color: #9ece6a;
-    background: linear-gradient(0deg, rgba(6, 252, 255, 1) 0%, rgba(175, 255, 107, 1) 90%, rgba(253, 187, 45, 1) 100%);
+    background: linear-gradient(0deg, rgba(6, 252, 255, 1) 50%, rgba(175, 255, 107, 1) 90%, rgba(253, 187, 45, 1) 100%);
     background-clip: text;
     font-weight: 500;
 }
